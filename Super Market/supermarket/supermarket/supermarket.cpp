@@ -59,7 +59,7 @@ void removeProduct(Product inventory[], int& numProducts, string& name) {
 }
 
 void runScrean() {
-    string filename = "C:\\Users\\ahmed\\Desktop\\C++Projects\\Super Market\\supermarket\\inventory.txt";
+    string filename = "C:\\Users\\ahmed\\Desktop\\C++Projects\\Project\\Super Market\\supermarket\\inventory.txt";
     Product inventory[maxProducts];
     int numProducts = 0;
 
